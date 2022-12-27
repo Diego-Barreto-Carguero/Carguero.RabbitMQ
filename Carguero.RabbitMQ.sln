@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{594389AC-2ECF-4259-953B-052D1D11469D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Carguero.RabbitMQ", "src\Carguero.RabbitMQ.csproj", "{63DEE382-E7F6-452D-9C83-21F58688A06E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63DEE382-E7F6-452D-9C83-21F58688A06E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63DEE382-E7F6-452D-9C83-21F58688A06E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63DEE382-E7F6-452D-9C83-21F58688A06E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63DEE382-E7F6-452D-9C83-21F58688A06E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63DEE382-E7F6-452D-9C83-21F58688A06E} = {594389AC-2ECF-4259-953B-052D1D11469D}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46C44CB-78B8-411B-B2AE-1F609F044882}
+	EndGlobalSection
+EndGlobal

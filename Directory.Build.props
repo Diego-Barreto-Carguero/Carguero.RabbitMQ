@@ -1,0 +1,18 @@
+<Project>
+    <PropertyGroup Label="Сommon properties">
+        <LangVersion>latest</LangVersion>
+        <NetCoreVersion>netcoreapp3.1</NetCoreVersion>
+        <NetStandartVersion>netstandard2.1</NetStandartVersion>
+        <Company>Carguero</Company>
+        <Authors>Carguero Dev Team</Authors>
+        <PackageDescription>This package is libraries for carguero apps</PackageDescription>
+        <RepositoryUrl>https://github.com/carguero/carguero.rabbitmq</RepositoryUrl>
+    </PropertyGroup>
+
+    <PropertyGroup Label="Packages dependency versions">
+        <CargueroNotification>1.0.0</CargueroNotification>
+        <RabbitMqClient>6.4.0</RabbitMqClient>
+		<Serilog>6.12.1</Serilog>
+		<NewtonsoftJson>13.0.2</NewtonsoftJson>
+    </PropertyGroup>
+</Project>
